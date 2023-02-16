@@ -100,13 +100,15 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 70px;
-    margin-right: 70px;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 70px;
-    margin-right: 70px;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-1 .u-gallery-1 {
@@ -125,13 +127,11 @@
   }
 
   .u-section-1 .u-text-1 {
-    width: 540px;
     margin-left: 50px;
     margin-right: 50px;
   }
 
   .u-section-1 .u-text-2 {
-    width: 540px;
     margin-left: 50px;
     margin-right: 50px;
   }
@@ -153,13 +153,11 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
-    width: auto;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
-    width: auto;
     margin-left: 0;
     margin-right: 0;
   }
